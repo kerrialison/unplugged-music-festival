@@ -516,7 +516,7 @@ footer {
   }
 
   .logo {
-    width: 40%;
+    width: 65%;
     float: left;
   }
 
@@ -525,7 +525,7 @@ footer {
   }
 
   nav {
-    width: 60%;
+    width: 30%;
     float: left;
     padding: 3% 0;
   }
@@ -538,9 +538,10 @@ footer {
 
   nav ul li {
     display: inline;
-    padding: 0 2%;
+    padding: 0 5%;
     border: none;
     position: relative;
+    font-size: 1.5em;
   }
 
   /* Featured News Item =========================== */
