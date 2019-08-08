@@ -133,9 +133,7 @@ h2 {
  font-size: 1em;
 }
 
-figure {
- margin: 0;
-}
+
 
 .btn {
  background-color: #b21e49;
@@ -167,8 +165,9 @@ input.btn {
 }
 
 .logo {
- width: 100%;
+ width: 60%;
  margin: 0 auto;
+ padding: 3% 0;
 }
 
 .logo img {
@@ -225,6 +224,33 @@ main {
 
 .sidebar {
  width: 100%;
+}
+
+form {
+  padding: 0 10px 20px 10px;
+}
+
+.input-group-field, .button {
+  border: none;
+  font-weight: 700;
+  line-height: 2.5;
+  text-align: center;
+  box-shadow: 2px 2px 0px #DADADA;
+  width: 100%;
+  display: block;
+}
+
+.input-group-field {
+  height: 2em;
+  margin: 0 0 10px 0;
+ 
+}
+.button {
+  background-color: #b21e49;
+  color: #fff;
+  text-transform: uppercase;
+  height: 2.5em;
+  padding: 0;
 }
 
 .sidebar-newsletter {
@@ -378,7 +404,6 @@ footer {
  margin: auto;
  border-top: 1px solid #ccc;
  padding-top: 20px;
- margin-top: 20px;
  clear: both;
 }
 
@@ -502,6 +527,7 @@ footer {
   nav {
     width: 60%;
     float: left;
+    padding: 3% 0;
   }
 
   nav ul {
