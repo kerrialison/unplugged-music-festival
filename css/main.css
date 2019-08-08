@@ -198,7 +198,6 @@ nav ul li a {
 /* Main Content =========================== */
 main {
  width: 96%;
- padding: 0 2%;
  margin: auto;
  max-width: 960px;
  clear: both;
@@ -313,7 +312,8 @@ form {
 
 .contact-info{
    width: 100%;
-   padding-top: 30px;
+  text-align: center;
+  padding: 0;
 }
 
 .contact-info ul {
@@ -403,7 +403,7 @@ footer {
  width: 100%;
  margin: auto;
  border-top: 1px solid #ccc;
- padding-top: 20px;
+ padding: 20px 0;
  clear: both;
 }
 
@@ -505,7 +505,6 @@ footer {
   .main-header {
     width: 100%;
     margin: auto;
-    padding: 0 3%;
     background-color: #dddddd;
   }
 
@@ -602,6 +601,10 @@ footer {
   .contact-info {
     width: 40%;
     float: left;
+    padding: 7% 0 0 0;
+    text-align: left;
+    margin-bottom: 40px;
+    margin-top: 30px;
   }
 
   .map-container {
@@ -609,7 +612,7 @@ footer {
     padding-bottom: 40%;
     height: 0;
     overflow: hidden;
-    width: 58%;
+    width: 55%;
     float: left;
     border: 1px solid #333;
     margin-bottom: 40px;
