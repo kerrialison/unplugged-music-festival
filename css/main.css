@@ -375,17 +375,17 @@ form {
 }
 
 #team-img-jack {
-   background: url('../img/team-jack.png') center no-repeat;
+   background: url('../img/opt-team-jack.jpg') center no-repeat;
    background-size: cover;
 }
 
 #team-img-lana {
-   background: url('../img/team-lana.png') center no-repeat;
+   background: url('../img/opt-team-lana.jpg') center no-repeat;
    background-size: cover;
 }
 
 #team-img-willow {
-   background: url('../img/team-willow.png') center no-repeat;
+   background: url('../img/opt-team-willow.jpg') center no-repeat;
    background-size: cover;
 }
 
